@@ -1,1 +1,15 @@
+Data Cleaning Steps [Power Query]
 
+1 . Loaded the raw FEMA dataset into Power BI and opened Power Query to inspect the structure and data quality.
+
+2 . Removed unnecessary columns such as internal IDs, metadata fields, and URLs that were not required for analysis or visualization.
+
+3 . Cleaned date fields by converting DateTime values to Date format and retained only the relevant date columns used for analysis.
+
+4 . Standardized program-declared columns by replacing NULL values with 0 (not declared) and keeping 1 for declared programs to enable correct aggregation.
+
+5 . Cleaned the designated incident type column by replacing unknown or unclear values with “Other” to improve chart readability.
+
+6 . Verified data types to ensure dates, numeric flags, and text fields were correctly formatted.
+
+7 . Performed final validation to confirm there were no critical missing values and that the dataset was ready for visualization.
