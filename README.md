@@ -9,7 +9,7 @@ This project aims to analyze FEMA disaster declaration data and present clear, a
 
 FEMA disaster declaration data covering U.S. disaster events, including dates, locations, incident types, and assistance program indicators. The dataset was cleaned and prepared for accurate analysis and visualization.
 
-#### Key information in the dataset:
+##### Key information in the dataset:
 
 1 . Disaster declaration dates
 
@@ -21,7 +21,7 @@ FEMA disaster declaration data covering U.S. disaster events, including dates, l
 
 5 . Assistance program declarations
 
-#### Program declaration indicators included:
+##### Program declaration indicators included:
 
 1 . Individual Assistance
 
