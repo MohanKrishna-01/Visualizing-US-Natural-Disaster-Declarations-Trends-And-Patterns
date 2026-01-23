@@ -1,1 +1,65 @@
+### Internship Documentation – Data Visualization
 
+####Platform: Infosys Springboard – Internship 6.0
+####Domain: Data Visualization
+
+####Project Title : Visualizing US Natural Disaster Declarations using FEMA Dataset
+
+#####This repository documents my week-wise internship work based on the Input dataset and project guidelines PDF, focusing on data cleaning, EDA, and visualization using Power BI.
+
+####Week 1 – Dataset Import & Data Cleaning (Power BI)
+
+####Objective : To clean and prepare the FEMA Excel dataset for visualization.
+
+####Work Done : 
+1 . Imported the Excel dataset into Power BI
+
+2 . Cleaned unnecessary columns and missing values
+
+3 . Converted Date-Time fields to Date format
+
+4 . Standardized column names and categorical values
+
+####Outcome : Clean dataset ready for analysis and visualization.
+
+####Week 2 – Data Validation & Preparation (Python)
+
+####Objective : To validate the FEMA dataset and ensure consistency.
+
+####Work Done:
+
+1 . Loaded the Excel dataset in Jupyter Notebook
+
+2 . Checked data structure, data types, and missing values
+
+3 . Verified data consistency with Power BI
+
+####Outcome : Verified and reliable dataset for further work.
+
+####Week 3 – Exploratory Data Analysis (EDA) in Power BI
+
+####Objective : To perform Exploratory Data Analysis on the FEMA dataset using Power BI.
+
+####Work Done:
+
+Analyzed disaster declaration trends over time
+
+Explored program-wise and state-wise distributions
+
+Used basic visuals to identify patterns and variations
+
+####Outcome : Clear understanding of data patterns to support dashboard creation.
+
+####Week 4 – Live Data, Zendesk & ETL Concepts
+
+####Objective : To understand real-world data integration and workflows.
+
+####Work Done:
+
+Learned to import live data using web URLs in Power BI
+
+Discussed Zendesk as an example of live data source
+
+Studied ETL pipeline concepts (Extract, Transform, Load)
+
+####Outcome : Understanding of enterprise-level data flow and dashboard integration.
