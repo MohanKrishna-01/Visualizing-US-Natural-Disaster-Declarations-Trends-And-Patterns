@@ -1,3 +1,0 @@
-This dataset contains FEMA disaster declaration records for the United States, including disaster dates, affected locations, incident types, and program declaration indicators.
-The raw data includes common real-world issues such as missing values, inconsistent categorical entries, redundant metadata columns, and DateTime fields with unnecessary time components.
-These issues were addressed during preprocessing to prepare the data for accurate analysis and visualization.
