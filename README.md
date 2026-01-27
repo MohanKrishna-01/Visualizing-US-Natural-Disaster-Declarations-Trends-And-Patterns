@@ -34,13 +34,13 @@ FEMA disaster declaration data covering U.S. disaster events, including dates, l
 ### Key Performance Indicators [KPIs]
 
 
-1. Total number of disaster declarations
+1 . Total number of disaster declarations
 
-2. Number of disasters by incident type
+2 . Number of disasters by incident type
 
-3. State-wise disaster count
+3 . State-wise disaster count
 
-4. Year-wise disaster trends
+4 . Year-wise disaster trends
 
 
 ### Dashboard Pages [No.of Pages Used For Visualization]
