@@ -1,4 +1,4 @@
-## Visualizing-US-Natural-Disaster-Declarations
+## Visualizing-US-Natural-Disaster-Declarations-Trends-And-Patterns
 
 ### Problem Statement
 
@@ -60,29 +60,29 @@ This view focuses on regional impact by ranking the most affected states and hig
 3 ->Disaster Severity & Duration
 This dashboard dives into how long different disaster types last and how severity changes over time, revealing patterns in prolonged disruption and recovery challenges. It helps differentiate between frequent disasters and those that cause long-term impact.
 
-#####*** Why This Dashboard Design Works (Highlights)
+--> Why This Dashboard Design Works [Highlights]
 
-Uses 3 concise dashboards to avoid clutter while covering trends, geography, and severity.
+1 . Uses 3 concise dashboards to avoid clutter while covering trends, geography, and severity.
 
-Combines KPI cards with interactive visuals for quick insights and deeper exploration.
+2 . Combines KPI cards with interactive visuals for quick insights and deeper exploration.
 
-Applies maps, line charts, and bar charts to match the nature of each question.
+3 . Applies maps, line charts, and bar charts to match the nature of each question.
 
-Keeps the layout simple, story-driven, and interview-ready.
+4 . Keeps the layout simple, story-driven, and interview-ready.
 
-Designed for non-technical users to understand disaster patterns quickly.
+5 . Designed for non-technical users to understand disaster patterns quickly.
 
 
 ### Key Insights [Insights,Trends,patterns From The Dashboard]
 
 
-#####Trends [What changes over time]
+Trends [What changes over time]
 
 1 . Disaster declarations show a rising trend over the years, with noticeable peaks in recent periods.
 
 2 . The average disaster duration shows periodic spikes, indicating years with prolonged recovery.
 
-#####Patterns [What repeats or clusters]
+Patterns [What repeats or clusters]
 
 1 . Disasters are concentrated in a few hotspot states, showing repeated regional vulnerability.
 
@@ -90,7 +90,7 @@ Designed for non-technical users to understand disaster patterns quickly.
 
 3 . High-impact states tend to experience longer recovery durations repeatedly.
 
-#####Insights [What this means / what we learn]
+Insights [What this means / what we learn]
 
 1 . Disaster risk is increasing and unevenly distributed, requiring targeted preparedness in hotspot regions.
 
