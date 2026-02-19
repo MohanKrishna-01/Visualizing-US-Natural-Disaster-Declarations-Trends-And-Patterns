@@ -124,4 +124,4 @@ Insights [What this means / what we learn]
 
 6 . VS Code – Development and project organization
 
-7 . GitHub – Version control and project documentation      among the all the add new things and make it more effective also make accurate and highlight important things from my all inputs about my project and make my readme file is a star of my project making best impression for my reviewers add some more key insights points and make more impactfull                                                                              
+7 . GitHub – Version control and project documentation                                                                       
